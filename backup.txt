@@ -1,0 +1,92 @@
+<div class="testimonial-items testimonial-carousel owl-carousel owl-theme">
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                Best doctor for diabetes and thyroid problems in Vizag city.  My aunt is getting treatment for diabetes and thyroid from Dr Ravi Teja garu. She is very happy with the treatment. Clean hospital and well mannered staff.
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <!-- <img src="assets/img/800x800.png" alt="Thumb"> -->
+                                </div>
+                                <div class="info">
+                                    <h4>Dharani Vadamodula</h4>
+                                    <!-- <h5>patient of <span>surgery</span></h5> -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                    Good hospital with clean premises. It's so nice to see that Lift and wheel chair facilities are available for old patients. I am a diabetic and thyroid patient. Doctor is very polite and caring listened to all my problems and advised me best treatment. Now I am feeling much better after new treatment.
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <!-- <img src="assets/img/800x800.png" alt="Thumb"> -->
+                                </div>
+                                <div class="info">
+                                    <h4>G Parvathi</h4>
+                                    <!-- <h5>Dental <span>patients</span></h5> -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                A highly qualified endocrinologist from a reputed premier central institute (PGIMER-Chandigarh), in our Vizag is great thing. He listens with patience to our  health problems. Good treatment is given. Hospital ambience is great, staff are cordial, lab facilities also available with latest technologies. Truly one stop solution for endocrine disorders.Will definitely suggest to my friends, neighbours and relatives.
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <!-- <img src="assets/img/800x800.png" alt="Thumb"> -->
+                                </div>
+                                <div class="info">
+                                    <h4>Raghu Praveen</h4>
+                                    <!-- <h5>patient of <span>surgery</span></h5> -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                One of the best clinic in our vizag, Doctor  Ravi Teja garu was  very polite and clear patient's every doubt,and he changed diet plan and very less medicines to control diabetis, hospital ambience is good ,staff also very polite.i advise my freinds for any endocrine problems better to consult  Dr .Ravi Teja garu for best treatment. And  for speedy recovery.
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <!-- <img src="assets/img/800x800.png" alt="Thumb"> -->
+                                </div>
+                                <div class="info">
+                                    <h4>Kumar Kolli</h4>
+                                    <!-- <h5>patient of <span>surgery</span></h5> -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                Very good experience at the ACE centre. Dr Ravitheja's problem oriented treatment approach is very efficient. It is a blessing for the people of Vizag to have an Endocrinologist like him.
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <!-- <img src="assets/img/800x800.png" alt="Thumb"> -->
+                                </div>
+                                <div class="info">
+                                    <h4>O.G.LAKSHMIKAR Reddy</h4>
+                                    <!-- <h5>patient of <span>surgery</span></h5> -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                    </div>
