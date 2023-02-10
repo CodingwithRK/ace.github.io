@@ -2,6 +2,10 @@
     width: 90px;
 }
 
+.counter_img {
+    width: 100px;
+}
+
 .top-services-area .services-tabs ul.nav.nav-pills li a {
     padding: 5%;
 }
