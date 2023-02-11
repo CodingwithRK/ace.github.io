@@ -1,0 +1,57 @@
+$flaticon_ace-font: "flaticon_ace";
+
+@font-face {
+    font-family: $flaticon_ace-font;
+    src: url("./flaticon_ace.ttf?462354386ea7488c5b7d82a7cbe5615f") format("truetype"),
+url("./flaticon_ace.woff?462354386ea7488c5b7d82a7cbe5615f") format("woff"),
+url("./flaticon_ace.woff2?462354386ea7488c5b7d82a7cbe5615f") format("woff2"),
+url("./flaticon_ace.eot?462354386ea7488c5b7d82a7cbe5615f#iefix") format("embedded-opentype"),
+url("./flaticon_ace.svg?462354386ea7488c5b7d82a7cbe5615f#flaticon_ace") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_ace !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_ace-map: (
+    "thyroid": "\f101",
+    "blood-pressure": "\f102",
+    "diabetes": "\f103",
+    "overweight": "\f104",
+    "ovary": "\f105",
+    "arthritis": "\f106",
+    "growth-chart": "\f107",
+    "menstrual-pain": "\f108",
+);
+
+.flaticon-thyroid:before {
+    content: map-get($flaticon_ace-map, "thyroid");
+}
+.flaticon-blood-pressure:before {
+    content: map-get($flaticon_ace-map, "blood-pressure");
+}
+.flaticon-diabetes:before {
+    content: map-get($flaticon_ace-map, "diabetes");
+}
+.flaticon-overweight:before {
+    content: map-get($flaticon_ace-map, "overweight");
+}
+.flaticon-ovary:before {
+    content: map-get($flaticon_ace-map, "ovary");
+}
+.flaticon-arthritis:before {
+    content: map-get($flaticon_ace-map, "arthritis");
+}
+.flaticon-growth-chart:before {
+    content: map-get($flaticon_ace-map, "growth-chart");
+}
+.flaticon-menstrual-pain:before {
+    content: map-get($flaticon_ace-map, "menstrual-pain");
+}

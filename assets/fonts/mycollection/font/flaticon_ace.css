@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "flaticon_ace";
+    src: url("./flaticon_ace.ttf?462354386ea7488c5b7d82a7cbe5615f") format("truetype"),
+url("./flaticon_ace.woff?462354386ea7488c5b7d82a7cbe5615f") format("woff"),
+url("./flaticon_ace.woff2?462354386ea7488c5b7d82a7cbe5615f") format("woff2"),
+url("./flaticon_ace.eot?462354386ea7488c5b7d82a7cbe5615f#iefix") format("embedded-opentype"),
+url("./flaticon_ace.svg?462354386ea7488c5b7d82a7cbe5615f#flaticon_ace") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_ace !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-thyroid:before {
+    content: "\f101";
+}
+.flaticon-blood-pressure:before {
+    content: "\f102";
+}
+.flaticon-diabetes:before {
+    content: "\f103";
+}
+.flaticon-overweight:before {
+    content: "\f104";
+}
+.flaticon-ovary:before {
+    content: "\f105";
+}
+.flaticon-arthritis:before {
+    content: "\f106";
+}
+.flaticon-growth-chart:before {
+    content: "\f107";
+}
+.flaticon-menstrual-pain:before {
+    content: "\f108";
+}

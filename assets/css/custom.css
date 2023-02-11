@@ -9,3 +9,37 @@
 .top-services-area .services-tabs ul.nav.nav-pills li a {
     padding: 5%;
 }
+
+.map {
+    width: 490px;
+    height: 260px;
+}
+
+.contact i {
+    font-size: 20px !important;
+    color: #138784 !important;
+}
+
+.address {
+    margin-bottom: 0 !important;
+}
+.address i {
+    text-align: left !important;
+    margin-bottom: 8px !important;
+    min-width: 25px !important;
+    color: #138784 !important;
+}
+/* Responsive */
+@media (max-width: 767px) {
+    .map {
+        max-width: 283px;
+    }
+    .phns {
+        display: grid;
+    }
+}
+
+
+/* .top-rem {
+    margin-top: 1.5rem;
+} */
